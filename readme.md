@@ -10,6 +10,6 @@ Challenges: Working with other people, different levels of competency
 
 GitHub location: You're here!
 
+![Image](https://github.com/jacobwu-cate/jsa-ideation/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-13%20at%2012.25.25.png)
 
-
-		
+![Image](https://github.com/jacobwu-cate/jsa-ideation/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-13%20at%2012.26.09.png)
